@@ -9,4 +9,4 @@ Since GitHub so kindly provided this template...
 - 💬 Ask me about: Anything!
 - 📫 How to reach me: [here](https://chadbaldwin.net/link)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm obssessed with rubiks cubes of all shapes and sizes and I collect them. I try to offset the nerdiness with motorcycles, but I don't think it's working.
+- ⚡ Fun fact: I'm obssessed with rubiks cubes of all shapes and sizes and I collect them. I try to offset the nerdiness 🤓 with motorcycles 🏍, but I don't think it's working.
