@@ -14,7 +14,7 @@ Since GitHub so kindly provided this template...
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
-* [Insert Only New Rows With Nullable Key Columns](https://chadbaldwin.net/2021/10/07/insert-only-new-rows.html)
+* [Insert Only New Rows With Nullable Key Columns](https://chadbaldwin.net/2021/10/08/insert-only-new-rows.html)
 * [PowerShell Common Parameters: PipelineVariable](https://chadbaldwin.net/2021/05/25/powershell-pipelinevariable.html)
 * [THROW command is non-terminating across linked servers](https://chadbaldwin.net/2021/04/02/throw-non-terminating-with-linked-server.html)
 * [Building diagrams using graphviz](https://chadbaldwin.net/2021/03/26/quick-diagramming.html)
