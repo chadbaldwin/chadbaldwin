@@ -14,3 +14,4 @@ Since GitHub so kindly provided this template...
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+<!--END_SECTION:posts-->
