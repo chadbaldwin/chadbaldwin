@@ -1,0 +1,14 @@
+name: Update
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v2.0.0
+        with:
+          feed-url: https://chadbaldwin.net/feed.xml
+          readme-section: posts
+          empty-commits: false
