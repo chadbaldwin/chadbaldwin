@@ -1,11 +1,9 @@
 name: Update
 on:
+  workflow_dispatch:
   schedule:
     # Once a day at 7AM
     - cron: 0 7 * * *
-  push:
-    branches:
-      - main
 jobs:
   update:
     runs-on: ubuntu-latest
