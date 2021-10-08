@@ -14,4 +14,9 @@ Since GitHub so kindly provided this template...
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [PowerShell Common Parameters: PipelineVariable](https://chadbaldwin.net/2021/05/25/powershell-pipelinevariable.html)
+* [THROW command is non-terminating across linked servers](https://chadbaldwin.net/2021/04/02/throw-non-terminating-with-linked-server.html)
+* [Building diagrams using graphviz](https://chadbaldwin.net/2021/03/26/quick-diagramming.html)
+* [Parsing a pipe delimited file to get a unique list of values](https://chadbaldwin.net/2021/03/24/quick-parse-csv-file.html)
+* [Building a Free Blog with GitHub Pages in Minutes](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html)
 <!--END_SECTION:posts-->
