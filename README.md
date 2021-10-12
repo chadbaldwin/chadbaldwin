@@ -14,9 +14,9 @@ Since GitHub so kindly provided this template...
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [T-SQL Tuesday #143 – Short code examples](https://chadbaldwin.net/2021/10/12/tsql-tuesday-short-code.html)
 * [Insert Only New Rows With Nullable Key Columns](https://chadbaldwin.net/2021/10/08/insert-only-new-rows.html)
 * [PowerShell Common Parameters: PipelineVariable](https://chadbaldwin.net/2021/05/25/powershell-pipelinevariable.html)
 * [THROW command is non-terminating across linked servers](https://chadbaldwin.net/2021/04/02/throw-non-terminating-with-linked-server.html)
 * [Building diagrams using graphviz](https://chadbaldwin.net/2021/03/26/quick-diagramming.html)
-* [Parsing a pipe delimited file to get a unique list of values](https://chadbaldwin.net/2021/03/24/quick-parse-csv-file.html)
 <!--END_SECTION:posts-->
