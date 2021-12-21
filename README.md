@@ -5,7 +5,7 @@ If you like what you see here, feel free to follow or contribute.
 Since GitHub so kindly provided this template...
 
 - 🔭 I’m currently working on: my blog at [chadbaldwin.net](https://chadbaldwin.net)
-- 🌱 I’m currently learning: All sorts of things...SQL, C#, Python, Jekyll/Liquid, Data Science
+- 🌱 I’m currently learning: All sorts of things...SQL, C#, Python, Jekyll/Liquid, Data Engineering
 - 💬 Ask me about: Anything!
 - 📫 How to reach me: [here](https://chadbaldwin.net/link)
 - 😄 Pronouns: he/him
