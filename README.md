@@ -20,3 +20,7 @@ Since GitHub so kindly provided this template...
 * [T-SQL Tuesday #143 – Short code examples](https://chadbaldwin.net/2021/10/12/tsql-tuesday-short-code.html)
 * [Insert Only New Rows With Nullable Key Columns](https://chadbaldwin.net/2021/10/08/insert-only-new-rows.html)
 <!--END_SECTION:posts-->
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chadbaldwin&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chadbaldwin&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
