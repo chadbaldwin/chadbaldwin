@@ -2,8 +2,8 @@ name: Update
 on:
   workflow_dispatch:
   schedule:
-    # Once a day at 7AM
-    - cron: 0 15 * * *
+    # Once a day at 7:15AM PST - Blog posts usually scheduled for 7AM, site refreshes at 7:05AM
+    - cron: 15 15 * * *
 jobs:
   update:
     runs-on: ubuntu-latest
