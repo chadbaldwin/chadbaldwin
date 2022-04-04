@@ -14,11 +14,11 @@ Since GitHub so kindly provided this template...
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Handling log files in PowerShell](https://chadbaldwin.net/2022/04/04/powershell-monitoring-log-files.html)
 * [Restore database from backup in Docker](https://chadbaldwin.net/2021/11/04/restore-database-in-docker.html)
 * [Working with secure FTP in PowerShell](https://chadbaldwin.net/2021/11/01/sftp-in-powershell.html)
 * [Copy a large table between servers, a couple wrong ways, maybe one right way](https://chadbaldwin.net/2021/10/19/copy-large-table.html)
 * [T-SQL Tuesday #143 – Short code examples](https://chadbaldwin.net/2021/10/12/tsql-tuesday-short-code.html)
-* [Insert Only New Rows With Nullable Key Columns](https://chadbaldwin.net/2021/10/08/insert-only-new-rows.html)
 <!--END_SECTION:posts-->
 
 ## Profile stats
