@@ -14,11 +14,11 @@ Since GitHub so kindly provided this template...
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Everything’s a CASE statement!](https://chadbaldwin.net/2024/07/30/everythings-a-case-statement.html)
 * [Fun with Unicode characters in SQL Queries](https://chadbaldwin.net/2024/07/09/fun-with-unicode-in-sql-queries.html)
 * [What’s new in SQL Server 2022](https://chadbaldwin.net/2022/06/02/whats-new-in-sql-server-2022.html)
 * [Handling log files in PowerShell](https://chadbaldwin.net/2022/04/04/powershell-monitoring-log-files.html)
 * [Restore database from backup in Docker](https://chadbaldwin.net/2021/11/04/restore-database-in-docker.html)
-* [Working with secure FTP in PowerShell](https://chadbaldwin.net/2021/11/01/sftp-in-powershell.html)
 <!--END_SECTION:posts-->
 
 ## Profile stats
