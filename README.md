@@ -23,6 +23,6 @@ Since GitHub so kindly provided this template...
 
 ## Profile stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chadbaldwin&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chadbaldwin&show_icons=true&theme=transparent&.)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chadbaldwin&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
