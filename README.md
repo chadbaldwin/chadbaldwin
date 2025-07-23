@@ -14,11 +14,11 @@ Since GitHub so kindly provided this template...
 ## Recent blog posts
 
 <!--START_SECTION:posts-->
+* [Oops! Copilot deployed to prod. Be careful with your extensions and MCP servers](https://chadbaldwin.net/2025/07/22/oops-copilot-deployed-to-prod.html)
 * [Decoding datetime2 columnstore segment range values](https://chadbaldwin.net/2024/08/07/convert-datetime2-bigint.html)
 * [Why aren’t old rows dropping from my temporal history table?](https://chadbaldwin.net/2024/08/05/temporal-table-weirdness.html)
 * [Everything’s a CASE statement!](https://chadbaldwin.net/2024/07/30/everythings-a-case-statement.html)
 * [Fun with Unicode characters in SQL Queries](https://chadbaldwin.net/2024/07/09/fun-with-unicode-in-sql-queries.html)
-* [What’s new in SQL Server 2022](https://chadbaldwin.net/2022/06/02/whats-new-in-sql-server-2022.html)
 <!--END_SECTION:posts-->
 
 ## Profile stats
